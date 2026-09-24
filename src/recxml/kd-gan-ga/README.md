@@ -1,4 +1,4 @@
-# E2AD
+# RecXML
 
 This repository is a e2ad framework research
 implementation.
