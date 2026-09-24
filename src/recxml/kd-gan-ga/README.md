@@ -1,10 +1,7 @@
 # RecXML
 
-This repository is a e2ad framework research
-implementation.
 
-
-## Repository structure
+## structure
 
 ```text
 src/
